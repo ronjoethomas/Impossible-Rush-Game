@@ -1,6 +1,8 @@
 # Impossible-Rush-Game
 A game to be played using the De1soc Armv7 processor
 
+This website: https://cpulator.01xz.net/?sys=arm-de1soc can be used to simulate the armv7 architecture and de1soc system. select the language to be C, then click compile load, and finally click continue, The game is showcased on the right side of the screen on the simulated VGA display.
+
 Base Game and Instructions:
 
 Impossible Rush essentially requires the player to catch the incoming ball with the corresponding matching colour.
